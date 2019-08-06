@@ -1,0 +1,32 @@
+Arguments: 
+  /usr/local/Cellar/node/11.4.0/bin/node /usr/local/Cellar/yarn/1.12.3/libexec/bin/yarn.js add express
+
+PATH: 
+  /Users/fabriciosantosguimaraes/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/fabriciosantosguimaraes/.rbenv/shims
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  11.4.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND nexus.produbanbr.corp nexus.produbanbr.corp:80
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+
+npm manifest: 
+  {
+    "name": "backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
